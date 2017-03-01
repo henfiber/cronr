@@ -1,7 +1,7 @@
 Package: cronr
 Type: Package
 Title: A Cron-like second-precision Scheduler for R
-Version: 0.1.0
+Version: 0.1.1
 Author: person("Ilias", "Kotinas", email = "ikotinas@gmail.com",
                   role = c("aut", "cre"))
 Maintainer: Ilias Kotinas <ikotinas@gmail.com>
