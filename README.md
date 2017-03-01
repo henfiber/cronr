@@ -59,7 +59,7 @@ The scheduler will run indefinitely in the background until you interrupt the R 
 
 GPLv2 or newer
 
-Copyright 2014 Ilias Kotinas
+Copyright 2014-2017 Ilias Kotinas
 
 
 
